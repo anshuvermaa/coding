@@ -1,0 +1,1 @@
+ BTNode<int>*root=new BTNode<int>(data);
